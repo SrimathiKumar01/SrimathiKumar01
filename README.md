@@ -29,7 +29,5 @@ Here are some of the tools and technologies I use:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
-- [Website/Blog](https://yourwebsite.com)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, check out my projects, and connect with me.
