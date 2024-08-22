@@ -22,10 +22,6 @@ Here are some of the tools and technologies I use:
 - Tools: [e.g., Git, Docker, Jenkins]
 - Databases: [e.g., MySQL, MongoDB, PostgreSQL]
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical)
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
