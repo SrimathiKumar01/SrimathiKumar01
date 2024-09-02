@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm [Your Name], a passionate [Your Profession/Field] from [Your Location]. Welcome to my GitHub profile!
+👋 Hi there! I'm SRIMATHI KUMAR , a passionate HR  from  ERODE. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
