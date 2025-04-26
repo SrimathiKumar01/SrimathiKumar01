@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Resume Showcase Website** (coming soon 🚀)  
 - 🌱 I’m learning and exploring more in frontend technologies, UI/UX design, and cloud platforms.  
-- 💬 Ask me about **frontend development**, **data visualization**, and **UI/UX principles**.  
+- 💬 Ask me about **data visualization**, and **UI/UX principles**.  
 - 📫 Let's connect and grow together!
 
 ---
