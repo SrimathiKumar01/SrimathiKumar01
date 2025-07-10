@@ -1,9 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Srimathi Kumar</h1>
 <h3 align="center">A passionate Frontend Developer, Data Analyst, and UI/UX Designer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on: **Resume Showcase Website** (coming soon 🚀)  
 - 🌱 I’m learning and exploring more in frontend technologies, UI/UX design, and cloud platforms.  
-- 💬 Ask me about **data visualization**, and **UI/UX principles**.  
+- 💬 Ask me about **data Base** and **UI/UX principles**.  
 - 📫 Let's connect and grow together!
 
 ---
