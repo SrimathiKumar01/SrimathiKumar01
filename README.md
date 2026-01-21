@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/srimathi-kumar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 <a href="https://srimathi.tech" target="_blank">
+<img aling="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio-in-alt.svg" alt="Portfolio" height="30" widht="40"/>
 
 
     
