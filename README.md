@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer, Data Analyst, and UI/UX Designer from India 🇮🇳</h3>
 
 - 🌱 I’m learning and exploring more in frontend technologies, UI/UX design, and cloud platforms.  
-- 💬 Ask me about **data Base** and **UI/UX principles**.  
+- 💬 Ask me about **data Base** and and "SQL" Queries and FOCUSING  towards to SQL DEVELOPER.  
 - 📫 Let's connect and grow together!
 
 ---
