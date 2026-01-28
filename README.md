@@ -1,10 +1,10 @@
  # 💫 About Me:
-🔭 .Tech IT student passionate about building clean, reliable software.
+🔭  B.Tech IT student passionate about building clean, reliable software.
 Strong in Java fundamentals and problem-solving.
 Actively learning SQL and backend development.
 
 ## 🌐 Socials:
- [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-m-88475b2a3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrmks46007) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kishore-M-489) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kishore0_0_7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27168047)[![Portfolio](https://img.shields.io/badge/Portfolio-kishore0--0--7.github.io-blue?style=for-the-badge&logo=github)](https://kishore007.tech)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-m-88475b2a3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrmks46007) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kishore-M-489) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kishore0_0_7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27168047)[![Portfolio](https://img.shields.io/badge/Portfolio-kishore0--0--7.github.io-blue?style=for-the-badge&logo=github)](https://kishore007.tech)
 
 
 
