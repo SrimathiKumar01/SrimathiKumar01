@@ -1,8 +1,12 @@
  # 💫 About Me:
-🔭  B.Tech IT student passionate about building clean, reliable software.
-Strong in Java fundamentals and problem-solving.
-Actively learning SQL and backend development.
-
+🔭  B.Tech IT student passionate about software development
+Strong in Java programming and problem solving
+Learning SQL, PostgreSQL, and backend technologies
+Practicing Data Structures and Algorithms daily
+Building logical coding skills through real-world projects
+Interested in product-based companies and scalable systems
+Quick learner, consistent, and focused on clean code
+Always exploring, improving, and turning ideas into software
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathi-kumar/)  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Srimathi-Kumar-12) [![Portfolio](https://img.shields.io/badge/Portfolio-Srimathikumar01.github.io-blue?style=for-the-badge&logo=github)](https://srimathi.tech)
 
